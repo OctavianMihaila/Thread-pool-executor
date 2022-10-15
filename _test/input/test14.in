@@ -1,0 +1,21 @@
+831
+37
+add_tasks 5 654 17
+add_tasks 3 126 112
+add_tasks 2 4479 117
+get_task 1
+print waiting
+add_tasks 6 3350 48
+print waiting
+print waiting
+print waiting
+add_tasks 3 3616 47
+print running
+add_tasks 7 2359 70
+print running
+get_thread 62
+print running
+print running
+print waiting
+get_task 9
+get_task 19

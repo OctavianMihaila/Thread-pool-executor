@@ -1,0 +1,31 @@
+629
+9
+add_tasks 3 967 123
+add_tasks 7 329 59 
+add_tasks 8 2488 64
+get_thread 16      
+add_tasks 7 2155 109
+add_tasks 7 1733 77
+get_thread 4
+get_thread 14
+add_tasks 7 4528 70
+get_task 35
+get_thread 17
+get_task 33
+get_thread 1
+add_tasks 2 523 59
+add_tasks 10 2423 67
+get_thread 9
+get_thread 10
+get_thread 16
+get_task 30
+get_task 22
+get_task 12
+add_tasks 5 4217 95
+get_task 23
+get_task 1
+get_task 8
+get_thread 14
+get_thread 1
+get_thread 12
+get_task 5

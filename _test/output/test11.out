@@ -1,0 +1,167 @@
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+====== Waiting queue =======
+[(1: priority = 73, remaining_time = 1872),
+(2: priority = 73, remaining_time = 1872),
+(3: priority = 73, remaining_time = 1872),
+(4: priority = 73, remaining_time = 1872),
+(5: priority = 73, remaining_time = 1872)]
+====== Waiting queue =======
+[(1: priority = 73, remaining_time = 1872),
+(2: priority = 73, remaining_time = 1872),
+(3: priority = 73, remaining_time = 1872),
+(4: priority = 73, remaining_time = 1872),
+(5: priority = 73, remaining_time = 1872)]
+Task created successfully : ID 6.
+Task 3 is waiting (remaining_time = 1872).
+Thread 8 is idle.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task 12 is waiting (remaining_time = 524).
+====== Waiting queue =======
+[(7: priority = 124, remaining_time = 524),
+(8: priority = 124, remaining_time = 524),
+(9: priority = 124, remaining_time = 524),
+(10: priority = 124, remaining_time = 524),
+(11: priority = 124, remaining_time = 524),
+(12: priority = 124, remaining_time = 524),
+(13: priority = 124, remaining_time = 524),
+(14: priority = 124, remaining_time = 524),
+(1: priority = 73, remaining_time = 1872),
+(2: priority = 73, remaining_time = 1872),
+(3: priority = 73, remaining_time = 1872),
+(4: priority = 73, remaining_time = 1872),
+(5: priority = 73, remaining_time = 1872),
+(6: priority = 10, remaining_time = 1278)]
+Thread 7 is idle.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task created successfully : ID 19.
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+Task created successfully : ID 22.
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+Task 2 is waiting (remaining_time = 1872).
+Task 18 is waiting (remaining_time = 1920).
+====== Waiting queue =======
+[(7: priority = 124, remaining_time = 524),
+(8: priority = 124, remaining_time = 524),
+(9: priority = 124, remaining_time = 524),
+(10: priority = 124, remaining_time = 524),
+(11: priority = 124, remaining_time = 524),
+(12: priority = 124, remaining_time = 524),
+(13: priority = 124, remaining_time = 524),
+(14: priority = 124, remaining_time = 524),
+(15: priority = 107, remaining_time = 1920),
+(16: priority = 107, remaining_time = 1920),
+(17: priority = 107, remaining_time = 1920),
+(18: priority = 107, remaining_time = 1920),
+(19: priority = 107, remaining_time = 1920),
+(20: priority = 107, remaining_time = 1920),
+(21: priority = 107, remaining_time = 1920),
+(22: priority = 107, remaining_time = 1920),
+(23: priority = 107, remaining_time = 1920),
+(24: priority = 107, remaining_time = 1920),
+(1: priority = 73, remaining_time = 1872),
+(2: priority = 73, remaining_time = 1872),
+(3: priority = 73, remaining_time = 1872),
+(4: priority = 73, remaining_time = 1872),
+(5: priority = 73, remaining_time = 1872),
+(6: priority = 10, remaining_time = 1278)]
+Task 2 is waiting (remaining_time = 1872).
+Task created successfully : ID 25.
+Task created successfully : ID 26.
+Task created successfully : ID 27.
+Task created successfully : ID 28.
+Task created successfully : ID 29.
+Thread 2 is idle.
+Task created successfully : ID 30.
+Task created successfully : ID 31.
+Task created successfully : ID 32.
+Task created successfully : ID 33.
+Task created successfully : ID 34.
+Task 13 is waiting (remaining_time = 524).
+Thread 14 is idle.
+Task 1 is waiting (remaining_time = 1872).
+====== Waiting queue =======
+[(7: priority = 124, remaining_time = 524),
+(8: priority = 124, remaining_time = 524),
+(9: priority = 124, remaining_time = 524),
+(10: priority = 124, remaining_time = 524),
+(11: priority = 124, remaining_time = 524),
+(12: priority = 124, remaining_time = 524),
+(13: priority = 124, remaining_time = 524),
+(14: priority = 124, remaining_time = 524),
+(30: priority = 116, remaining_time = 1490),
+(31: priority = 116, remaining_time = 1490),
+(32: priority = 116, remaining_time = 1490),
+(33: priority = 116, remaining_time = 1490),
+(34: priority = 116, remaining_time = 1490),
+(15: priority = 107, remaining_time = 1920),
+(16: priority = 107, remaining_time = 1920),
+(17: priority = 107, remaining_time = 1920),
+(18: priority = 107, remaining_time = 1920),
+(19: priority = 107, remaining_time = 1920),
+(20: priority = 107, remaining_time = 1920),
+(21: priority = 107, remaining_time = 1920),
+(22: priority = 107, remaining_time = 1920),
+(23: priority = 107, remaining_time = 1920),
+(24: priority = 107, remaining_time = 1920),
+(1: priority = 73, remaining_time = 1872),
+(2: priority = 73, remaining_time = 1872),
+(3: priority = 73, remaining_time = 1872),
+(4: priority = 73, remaining_time = 1872),
+(5: priority = 73, remaining_time = 1872),
+(25: priority = 56, remaining_time = 2368),
+(26: priority = 56, remaining_time = 2368),
+(27: priority = 56, remaining_time = 2368),
+(28: priority = 56, remaining_time = 2368),
+(29: priority = 56, remaining_time = 2368),
+(6: priority = 10, remaining_time = 1278)]
+====== Waiting queue =======
+[(7: priority = 124, remaining_time = 524),
+(8: priority = 124, remaining_time = 524),
+(9: priority = 124, remaining_time = 524),
+(10: priority = 124, remaining_time = 524),
+(11: priority = 124, remaining_time = 524),
+(12: priority = 124, remaining_time = 524),
+(13: priority = 124, remaining_time = 524),
+(14: priority = 124, remaining_time = 524),
+(30: priority = 116, remaining_time = 1490),
+(31: priority = 116, remaining_time = 1490),
+(32: priority = 116, remaining_time = 1490),
+(33: priority = 116, remaining_time = 1490),
+(34: priority = 116, remaining_time = 1490),
+(15: priority = 107, remaining_time = 1920),
+(16: priority = 107, remaining_time = 1920),
+(17: priority = 107, remaining_time = 1920),
+(18: priority = 107, remaining_time = 1920),
+(19: priority = 107, remaining_time = 1920),
+(20: priority = 107, remaining_time = 1920),
+(21: priority = 107, remaining_time = 1920),
+(22: priority = 107, remaining_time = 1920),
+(23: priority = 107, remaining_time = 1920),
+(24: priority = 107, remaining_time = 1920),
+(1: priority = 73, remaining_time = 1872),
+(2: priority = 73, remaining_time = 1872),
+(3: priority = 73, remaining_time = 1872),
+(4: priority = 73, remaining_time = 1872),
+(5: priority = 73, remaining_time = 1872),
+(25: priority = 56, remaining_time = 2368),
+(26: priority = 56, remaining_time = 2368),
+(27: priority = 56, remaining_time = 2368),
+(28: priority = 56, remaining_time = 2368),
+(29: priority = 56, remaining_time = 2368),
+(6: priority = 10, remaining_time = 1278)]

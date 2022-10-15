@@ -1,0 +1,36 @@
+710
+34
+add_tasks 1 2356 82
+run 45542
+add_tasks 2 5 26
+add_tasks 2 2655 91
+print finished
+get_task 2
+print running
+get_thread 34
+print finished
+print running
+print finished
+run 66072
+print finished
+print running
+print running
+add_tasks 4 985 48
+add_tasks 9 4399 50
+get_thread 4
+print waiting
+add_tasks 4 1521 15
+run 22929
+get_task 19
+get_task 21
+print running
+print finished
+add_tasks 1 594 92
+run 31402
+run 30102
+print waiting
+run 20816
+print waiting
+add_tasks 7 4797 117
+get_thread 67
+print finished

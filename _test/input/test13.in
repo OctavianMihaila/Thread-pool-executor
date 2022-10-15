@@ -1,0 +1,20 @@
+40
+59
+add_tasks 5 160 115
+get_task 5
+print waiting
+print waiting
+add_tasks 3 120 19
+get_thread 94
+print running
+print running
+add_tasks 4 200 112
+add_tasks 6 120 114
+add_tasks 1 40 115
+print running
+get_thread 75
+get_task 11
+print running
+add_tasks 2 40 111
+print waiting
+print waiting

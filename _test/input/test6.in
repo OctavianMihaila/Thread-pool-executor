@@ -1,0 +1,16 @@
+725
+2
+add_tasks 3 1671 1
+get_task 1
+get_task 2
+get_task 3
+get_task 1
+add_tasks 3 4357 75
+add_tasks 5 4868 106
+add_tasks 3 2983 53
+add_tasks 9 4331 42
+get_task 5
+add_tasks 4 4296 24
+add_tasks 7 3773 41
+get_task 31
+get_task 14

@@ -1,0 +1,220 @@
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task 15 is waiting (remaining_time = 1028).
+Task created successfully : ID 19.
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+Task created successfully : ID 22.
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+Task created successfully : ID 25.
+Task created successfully : ID 26.
+Task created successfully : ID 27.
+Task created successfully : ID 28.
+Task created successfully : ID 29.
+Task 10 is waiting (remaining_time = 1028).
+Task 12 is waiting (remaining_time = 1028).
+====== Waiting queue =======
+[(23: priority = 121, remaining_time = 3793),
+(24: priority = 121, remaining_time = 3793),
+(25: priority = 121, remaining_time = 3793),
+(26: priority = 121, remaining_time = 3793),
+(27: priority = 121, remaining_time = 3793),
+(28: priority = 121, remaining_time = 3793),
+(29: priority = 121, remaining_time = 3793),
+(19: priority = 105, remaining_time = 2582),
+(20: priority = 105, remaining_time = 2582),
+(21: priority = 105, remaining_time = 2582),
+(22: priority = 105, remaining_time = 2582),
+(5: priority = 91, remaining_time = 3973),
+(10: priority = 59, remaining_time = 1028),
+(11: priority = 59, remaining_time = 1028),
+(12: priority = 59, remaining_time = 1028),
+(13: priority = 59, remaining_time = 1028),
+(14: priority = 59, remaining_time = 1028),
+(15: priority = 59, remaining_time = 1028),
+(6: priority = 58, remaining_time = 2149),
+(7: priority = 58, remaining_time = 2149),
+(8: priority = 58, remaining_time = 2149),
+(9: priority = 58, remaining_time = 2149),
+(1: priority = 17, remaining_time = 2171),
+(2: priority = 17, remaining_time = 2171),
+(3: priority = 17, remaining_time = 2171),
+(4: priority = 17, remaining_time = 2171),
+(16: priority = 16, remaining_time = 546),
+(17: priority = 16, remaining_time = 546),
+(18: priority = 16, remaining_time = 546)]
+Task 3 is waiting (remaining_time = 2171).
+Task created successfully : ID 30.
+Task created successfully : ID 31.
+Task created successfully : ID 32.
+Task created successfully : ID 33.
+Task created successfully : ID 34.
+Task created successfully : ID 35.
+Task created successfully : ID 36.
+Task created successfully : ID 37.
+Task created successfully : ID 38.
+Task created successfully : ID 39.
+Task created successfully : ID 40.
+Task created successfully : ID 41.
+Task created successfully : ID 42.
+Task created successfully : ID 43.
+Task created successfully : ID 44.
+====== Waiting queue =======
+[(30: priority = 127, remaining_time = 1656),
+(31: priority = 127, remaining_time = 1656),
+(32: priority = 127, remaining_time = 1656),
+(33: priority = 127, remaining_time = 1656),
+(34: priority = 127, remaining_time = 1656),
+(35: priority = 127, remaining_time = 1656),
+(36: priority = 127, remaining_time = 1656),
+(37: priority = 127, remaining_time = 1656),
+(23: priority = 121, remaining_time = 3793),
+(24: priority = 121, remaining_time = 3793),
+(25: priority = 121, remaining_time = 3793),
+(26: priority = 121, remaining_time = 3793),
+(27: priority = 121, remaining_time = 3793),
+(28: priority = 121, remaining_time = 3793),
+(29: priority = 121, remaining_time = 3793),
+(19: priority = 105, remaining_time = 2582),
+(20: priority = 105, remaining_time = 2582),
+(21: priority = 105, remaining_time = 2582),
+(22: priority = 105, remaining_time = 2582),
+(5: priority = 91, remaining_time = 3973),
+(10: priority = 59, remaining_time = 1028),
+(11: priority = 59, remaining_time = 1028),
+(12: priority = 59, remaining_time = 1028),
+(13: priority = 59, remaining_time = 1028),
+(14: priority = 59, remaining_time = 1028),
+(15: priority = 59, remaining_time = 1028),
+(6: priority = 58, remaining_time = 2149),
+(7: priority = 58, remaining_time = 2149),
+(8: priority = 58, remaining_time = 2149),
+(9: priority = 58, remaining_time = 2149),
+(1: priority = 17, remaining_time = 2171),
+(2: priority = 17, remaining_time = 2171),
+(3: priority = 17, remaining_time = 2171),
+(4: priority = 17, remaining_time = 2171),
+(16: priority = 16, remaining_time = 546),
+(17: priority = 16, remaining_time = 546),
+(18: priority = 16, remaining_time = 546),
+(38: priority = 3, remaining_time = 2088),
+(39: priority = 3, remaining_time = 2088),
+(40: priority = 3, remaining_time = 2088),
+(41: priority = 3, remaining_time = 2088),
+(42: priority = 3, remaining_time = 2088),
+(43: priority = 3, remaining_time = 2088),
+(44: priority = 3, remaining_time = 2088)]
+Task created successfully : ID 45.
+Task created successfully : ID 46.
+====== Running in parallel =======
+[]
+Thread 50 is idle.
+Thread 4 is idle.
+====== Waiting queue =======
+[(30: priority = 127, remaining_time = 1656),
+(31: priority = 127, remaining_time = 1656),
+(32: priority = 127, remaining_time = 1656),
+(33: priority = 127, remaining_time = 1656),
+(34: priority = 127, remaining_time = 1656),
+(35: priority = 127, remaining_time = 1656),
+(36: priority = 127, remaining_time = 1656),
+(37: priority = 127, remaining_time = 1656),
+(23: priority = 121, remaining_time = 3793),
+(24: priority = 121, remaining_time = 3793),
+(25: priority = 121, remaining_time = 3793),
+(26: priority = 121, remaining_time = 3793),
+(27: priority = 121, remaining_time = 3793),
+(28: priority = 121, remaining_time = 3793),
+(29: priority = 121, remaining_time = 3793),
+(19: priority = 105, remaining_time = 2582),
+(20: priority = 105, remaining_time = 2582),
+(21: priority = 105, remaining_time = 2582),
+(22: priority = 105, remaining_time = 2582),
+(5: priority = 91, remaining_time = 3973),
+(10: priority = 59, remaining_time = 1028),
+(11: priority = 59, remaining_time = 1028),
+(12: priority = 59, remaining_time = 1028),
+(13: priority = 59, remaining_time = 1028),
+(14: priority = 59, remaining_time = 1028),
+(15: priority = 59, remaining_time = 1028),
+(6: priority = 58, remaining_time = 2149),
+(7: priority = 58, remaining_time = 2149),
+(8: priority = 58, remaining_time = 2149),
+(9: priority = 58, remaining_time = 2149),
+(45: priority = 36, remaining_time = 1262),
+(46: priority = 36, remaining_time = 1262),
+(1: priority = 17, remaining_time = 2171),
+(2: priority = 17, remaining_time = 2171),
+(3: priority = 17, remaining_time = 2171),
+(4: priority = 17, remaining_time = 2171),
+(16: priority = 16, remaining_time = 546),
+(17: priority = 16, remaining_time = 546),
+(18: priority = 16, remaining_time = 546),
+(38: priority = 3, remaining_time = 2088),
+(39: priority = 3, remaining_time = 2088),
+(40: priority = 3, remaining_time = 2088),
+(41: priority = 3, remaining_time = 2088),
+(42: priority = 3, remaining_time = 2088),
+(43: priority = 3, remaining_time = 2088),
+(44: priority = 3, remaining_time = 2088)]
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+Task created successfully : ID 47.
+Thread 14 is idle.
+Task 13 is waiting (remaining_time = 1028).
+Thread 33 is idle.
+Thread 27 is idle.
+Task created successfully : ID 48.
+Task created successfully : ID 49.
+Task created successfully : ID 50.
+Task created successfully : ID 51.
+Task created successfully : ID 52.
+Task created successfully : ID 53.
+Task created successfully : ID 54.
+Task created successfully : ID 55.
+Task created successfully : ID 56.
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+Task 55 is waiting (remaining_time = 4219).
+Task created successfully : ID 57.
+Task created successfully : ID 58.
+Task created successfully : ID 59.
+Task created successfully : ID 60.
+Task created successfully : ID 61.
+Task created successfully : ID 62.
+Task created successfully : ID 63.
+Task created successfully : ID 64.
+Task created successfully : ID 65.
+====== Running in parallel =======
+[]

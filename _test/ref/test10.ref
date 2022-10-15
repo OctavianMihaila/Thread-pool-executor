@@ -1,0 +1,104 @@
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task 5 is waiting (remaining_time = 429).
+Thread 102 is idle.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Thread 59 is idle.
+====== Waiting queue =======
+[(1: priority = 60, remaining_time = 429),
+(2: priority = 60, remaining_time = 429),
+(3: priority = 60, remaining_time = 429),
+(4: priority = 60, remaining_time = 429),
+(5: priority = 60, remaining_time = 429),
+(6: priority = 60, remaining_time = 429),
+(7: priority = 21, remaining_time = 429),
+(8: priority = 21, remaining_time = 429),
+(9: priority = 21, remaining_time = 429)]
+====== Waiting queue =======
+[(1: priority = 60, remaining_time = 429),
+(2: priority = 60, remaining_time = 429),
+(3: priority = 60, remaining_time = 429),
+(4: priority = 60, remaining_time = 429),
+(5: priority = 60, remaining_time = 429),
+(6: priority = 60, remaining_time = 429),
+(7: priority = 21, remaining_time = 429),
+(8: priority = 21, remaining_time = 429),
+(9: priority = 21, remaining_time = 429)]
+====== Waiting queue =======
+[(1: priority = 60, remaining_time = 429),
+(2: priority = 60, remaining_time = 429),
+(3: priority = 60, remaining_time = 429),
+(4: priority = 60, remaining_time = 429),
+(5: priority = 60, remaining_time = 429),
+(6: priority = 60, remaining_time = 429),
+(7: priority = 21, remaining_time = 429),
+(8: priority = 21, remaining_time = 429),
+(9: priority = 21, remaining_time = 429)]
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task 6 is waiting (remaining_time = 429).
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task created successfully : ID 19.
+====== Waiting queue =======
+[(10: priority = 91, remaining_time = 429),
+(11: priority = 91, remaining_time = 429),
+(12: priority = 91, remaining_time = 429),
+(13: priority = 91, remaining_time = 429),
+(14: priority = 91, remaining_time = 429),
+(15: priority = 83, remaining_time = 286),
+(16: priority = 83, remaining_time = 286),
+(17: priority = 83, remaining_time = 286),
+(18: priority = 83, remaining_time = 286),
+(19: priority = 83, remaining_time = 286),
+(1: priority = 60, remaining_time = 429),
+(2: priority = 60, remaining_time = 429),
+(3: priority = 60, remaining_time = 429),
+(4: priority = 60, remaining_time = 429),
+(5: priority = 60, remaining_time = 429),
+(6: priority = 60, remaining_time = 429),
+(7: priority = 21, remaining_time = 429),
+(8: priority = 21, remaining_time = 429),
+(9: priority = 21, remaining_time = 429)]
+Thread 103 is idle.
+====== Waiting queue =======
+[(10: priority = 91, remaining_time = 429),
+(11: priority = 91, remaining_time = 429),
+(12: priority = 91, remaining_time = 429),
+(13: priority = 91, remaining_time = 429),
+(14: priority = 91, remaining_time = 429),
+(15: priority = 83, remaining_time = 286),
+(16: priority = 83, remaining_time = 286),
+(17: priority = 83, remaining_time = 286),
+(18: priority = 83, remaining_time = 286),
+(19: priority = 83, remaining_time = 286),
+(1: priority = 60, remaining_time = 429),
+(2: priority = 60, remaining_time = 429),
+(3: priority = 60, remaining_time = 429),
+(4: priority = 60, remaining_time = 429),
+(5: priority = 60, remaining_time = 429),
+(6: priority = 60, remaining_time = 429),
+(7: priority = 21, remaining_time = 429),
+(8: priority = 21, remaining_time = 429),
+(9: priority = 21, remaining_time = 429)]
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+Task created successfully : ID 22.
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+Task created successfully : ID 25.
+Task created successfully : ID 26.
+Task created successfully : ID 27.
+Task created successfully : ID 28.
+Thread 27 is idle.

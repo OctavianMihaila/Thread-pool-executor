@@ -1,0 +1,218 @@
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+====== Running in parallel =======
+[]
+Task 1 is waiting (remaining_time = 2641).
+Task 9 is waiting (remaining_time = 2641).
+Running tasks for 12833 ms...
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+====== Finished queue =======
+[(1: priority = 14, executed_time = 2641),
+(2: priority = 14, executed_time = 2641),
+(3: priority = 14, executed_time = 2641),
+(4: priority = 14, executed_time = 2641),
+(5: priority = 14, executed_time = 2641),
+(6: priority = 14, executed_time = 2641),
+(7: priority = 14, executed_time = 2641),
+(8: priority = 14, executed_time = 2641),
+(9: priority = 14, executed_time = 2641),
+(10: priority = 14, executed_time = 2641)]
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task 22 not found.
+====== Running in parallel =======
+[]
+Task 21 not found.
+====== Waiting queue =======
+[(5: priority = 98, remaining_time = 3186),
+(6: priority = 98, remaining_time = 3186),
+(7: priority = 98, remaining_time = 3186),
+(8: priority = 98, remaining_time = 3186),
+(9: priority = 98, remaining_time = 3186),
+(10: priority = 98, remaining_time = 3186),
+(11: priority = 98, remaining_time = 3186),
+(12: priority = 98, remaining_time = 3186),
+(13: priority = 98, remaining_time = 3186),
+(14: priority = 98, remaining_time = 3186),
+(1: priority = 87, remaining_time = 1608),
+(2: priority = 87, remaining_time = 1608),
+(3: priority = 87, remaining_time = 1608),
+(4: priority = 87, remaining_time = 1608)]
+====== Finished queue =======
+[(1: priority = 14, executed_time = 2641),
+(2: priority = 14, executed_time = 2641),
+(3: priority = 14, executed_time = 2641),
+(4: priority = 14, executed_time = 2641),
+(5: priority = 14, executed_time = 2641),
+(6: priority = 14, executed_time = 2641),
+(7: priority = 14, executed_time = 2641),
+(8: priority = 14, executed_time = 2641),
+(9: priority = 14, executed_time = 2641),
+(10: priority = 14, executed_time = 2641)]
+Task 13 is waiting (remaining_time = 3186).
+Thread 5 is idle.
+Thread 17 is idle.
+Task 21 not found.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task created successfully : ID 19.
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+Task created successfully : ID 22.
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+====== Finished queue =======
+[(1: priority = 14, executed_time = 2641),
+(2: priority = 14, executed_time = 2641),
+(3: priority = 14, executed_time = 2641),
+(4: priority = 14, executed_time = 2641),
+(5: priority = 14, executed_time = 2641),
+(6: priority = 14, executed_time = 2641),
+(7: priority = 14, executed_time = 2641),
+(8: priority = 14, executed_time = 2641),
+(9: priority = 14, executed_time = 2641),
+(10: priority = 14, executed_time = 2641)]
+====== Running in parallel =======
+[]
+====== Finished queue =======
+[(1: priority = 14, executed_time = 2641),
+(2: priority = 14, executed_time = 2641),
+(3: priority = 14, executed_time = 2641),
+(4: priority = 14, executed_time = 2641),
+(5: priority = 14, executed_time = 2641),
+(6: priority = 14, executed_time = 2641),
+(7: priority = 14, executed_time = 2641),
+(8: priority = 14, executed_time = 2641),
+(9: priority = 14, executed_time = 2641),
+(10: priority = 14, executed_time = 2641)]
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+====== Finished queue =======
+[(1: priority = 14, executed_time = 2641),
+(2: priority = 14, executed_time = 2641),
+(3: priority = 14, executed_time = 2641),
+(4: priority = 14, executed_time = 2641),
+(5: priority = 14, executed_time = 2641),
+(6: priority = 14, executed_time = 2641),
+(7: priority = 14, executed_time = 2641),
+(8: priority = 14, executed_time = 2641),
+(9: priority = 14, executed_time = 2641),
+(10: priority = 14, executed_time = 2641)]
+====== Waiting queue =======
+[(15: priority = 109, remaining_time = 4573),
+(16: priority = 109, remaining_time = 4573),
+(17: priority = 109, remaining_time = 4573),
+(18: priority = 109, remaining_time = 4573),
+(19: priority = 109, remaining_time = 4573),
+(20: priority = 109, remaining_time = 4573),
+(21: priority = 109, remaining_time = 4573),
+(22: priority = 109, remaining_time = 4573),
+(23: priority = 109, remaining_time = 4573),
+(24: priority = 109, remaining_time = 4573),
+(5: priority = 98, remaining_time = 3186),
+(6: priority = 98, remaining_time = 3186),
+(7: priority = 98, remaining_time = 3186),
+(8: priority = 98, remaining_time = 3186),
+(9: priority = 98, remaining_time = 3186),
+(10: priority = 98, remaining_time = 3186),
+(11: priority = 98, remaining_time = 3186),
+(12: priority = 98, remaining_time = 3186),
+(13: priority = 98, remaining_time = 3186),
+(14: priority = 98, remaining_time = 3186),
+(1: priority = 87, remaining_time = 1608),
+(2: priority = 87, remaining_time = 1608),
+(3: priority = 87, remaining_time = 1608),
+(4: priority = 87, remaining_time = 1608)]
+Thread 19 is idle.
+Running tasks for 944 ms...
+Task 26 not found.
+====== Running in parallel =======
+[(15: priority = 109, remaining_time = 3629, running_thread = 9),
+(16: priority = 109, remaining_time = 3629, running_thread = 8),
+(17: priority = 109, remaining_time = 3629, running_thread = 7),
+(18: priority = 109, remaining_time = 3629, running_thread = 6),
+(19: priority = 109, remaining_time = 3629, running_thread = 5),
+(20: priority = 109, remaining_time = 3629, running_thread = 4),
+(21: priority = 109, remaining_time = 3629, running_thread = 3),
+(22: priority = 109, remaining_time = 3629, running_thread = 2),
+(23: priority = 109, remaining_time = 3629, running_thread = 1),
+(24: priority = 109, remaining_time = 3629, running_thread = 0),
+(5: priority = 98, remaining_time = 2242, running_thread = 10),
+(6: priority = 98, remaining_time = 2242, running_thread = 11),
+(7: priority = 98, remaining_time = 2242, running_thread = 12),
+(8: priority = 98, remaining_time = 2242, running_thread = 13),
+(9: priority = 98, remaining_time = 2242, running_thread = 14),
+(10: priority = 98, remaining_time = 2242, running_thread = 15),
+(11: priority = 98, remaining_time = 2242, running_thread = 16),
+(12: priority = 98, remaining_time = 2242, running_thread = 17),
+(13: priority = 98, remaining_time = 2242, running_thread = 18),
+(14: priority = 98, remaining_time = 2242, running_thread = 19),
+(1: priority = 87, remaining_time = 664, running_thread = 20),
+(2: priority = 87, remaining_time = 664, running_thread = 21),
+(3: priority = 87, remaining_time = 664, running_thread = 22),
+(4: priority = 87, remaining_time = 664, running_thread = 23)]
+====== Running in parallel =======
+[(15: priority = 109, remaining_time = 3629, running_thread = 9),
+(16: priority = 109, remaining_time = 3629, running_thread = 8),
+(17: priority = 109, remaining_time = 3629, running_thread = 7),
+(18: priority = 109, remaining_time = 3629, running_thread = 6),
+(19: priority = 109, remaining_time = 3629, running_thread = 5),
+(20: priority = 109, remaining_time = 3629, running_thread = 4),
+(21: priority = 109, remaining_time = 3629, running_thread = 3),
+(22: priority = 109, remaining_time = 3629, running_thread = 2),
+(23: priority = 109, remaining_time = 3629, running_thread = 1),
+(24: priority = 109, remaining_time = 3629, running_thread = 0),
+(5: priority = 98, remaining_time = 2242, running_thread = 10),
+(6: priority = 98, remaining_time = 2242, running_thread = 11),
+(7: priority = 98, remaining_time = 2242, running_thread = 12),
+(8: priority = 98, remaining_time = 2242, running_thread = 13),
+(9: priority = 98, remaining_time = 2242, running_thread = 14),
+(10: priority = 98, remaining_time = 2242, running_thread = 15),
+(11: priority = 98, remaining_time = 2242, running_thread = 16),
+(12: priority = 98, remaining_time = 2242, running_thread = 17),
+(13: priority = 98, remaining_time = 2242, running_thread = 18),
+(14: priority = 98, remaining_time = 2242, running_thread = 19),
+(1: priority = 87, remaining_time = 664, running_thread = 20),
+(2: priority = 87, remaining_time = 664, running_thread = 21),
+(3: priority = 87, remaining_time = 664, running_thread = 22),
+(4: priority = 87, remaining_time = 664, running_thread = 23)]
+Running tasks for 6440 ms...
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+====== Waiting queue =======
+[(1: priority = 12, remaining_time = 2415),
+(2: priority = 12, remaining_time = 2415),
+(3: priority = 12, remaining_time = 2415),
+(4: priority = 12, remaining_time = 2415),
+(5: priority = 12, remaining_time = 2415)]
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+Total time: 9629

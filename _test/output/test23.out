@@ -1,0 +1,81 @@
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Thread 10 is idle.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Thread 70 is idle.
+Task 2 is waiting (remaining_time = 2017).
+====== Waiting queue =======
+[(7: priority = 126, remaining_time = 4869),
+(8: priority = 126, remaining_time = 4869),
+(9: priority = 126, remaining_time = 4869),
+(1: priority = 125, remaining_time = 2017),
+(2: priority = 125, remaining_time = 2017),
+(3: priority = 125, remaining_time = 2017),
+(4: priority = 125, remaining_time = 2017),
+(5: priority = 125, remaining_time = 2017),
+(6: priority = 125, remaining_time = 2017)]
+====== Running in parallel =======
+[]
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Running tasks for 87012 ms...
+====== Finished queue =======
+[(10: priority = 121, executed_time = 570),
+(11: priority = 121, executed_time = 570),
+(1: priority = 125, executed_time = 2017),
+(2: priority = 125, executed_time = 2017),
+(3: priority = 125, executed_time = 2017),
+(4: priority = 125, executed_time = 2017),
+(5: priority = 125, executed_time = 2017),
+(6: priority = 125, executed_time = 2017),
+(12: priority = 31, executed_time = 2871),
+(7: priority = 126, executed_time = 4869),
+(8: priority = 126, executed_time = 4869),
+(9: priority = 126, executed_time = 4869)]
+====== Finished queue =======
+[(10: priority = 121, executed_time = 570),
+(11: priority = 121, executed_time = 570),
+(1: priority = 125, executed_time = 2017),
+(2: priority = 125, executed_time = 2017),
+(3: priority = 125, executed_time = 2017),
+(4: priority = 125, executed_time = 2017),
+(5: priority = 125, executed_time = 2017),
+(6: priority = 125, executed_time = 2017),
+(12: priority = 31, executed_time = 2871),
+(7: priority = 126, executed_time = 4869),
+(8: priority = 126, executed_time = 4869),
+(9: priority = 126, executed_time = 4869)]
+Running tasks for 66278 ms...
+Thread 45 is idle.
+====== Finished queue =======
+[(10: priority = 121, executed_time = 570),
+(11: priority = 121, executed_time = 570),
+(1: priority = 125, executed_time = 2017),
+(2: priority = 125, executed_time = 2017),
+(3: priority = 125, executed_time = 2017),
+(4: priority = 125, executed_time = 2017),
+(5: priority = 125, executed_time = 2017),
+(6: priority = 125, executed_time = 2017),
+(12: priority = 31, executed_time = 2871),
+(7: priority = 126, executed_time = 4869),
+(8: priority = 126, executed_time = 4869),
+(9: priority = 126, executed_time = 4869)]
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Running tasks for 60174 ms...
+Running tasks for 13785 ms...
+Task 5 is finished (executed_time = 2017).
+Task 17 not found.
+Total time: 9765

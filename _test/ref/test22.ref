@@ -1,0 +1,67 @@
+Task created successfully : ID 1.
+====== Running in parallel =======
+[]
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+====== Waiting queue =======
+[(2: priority = 72, remaining_time = 3140),
+(3: priority = 72, remaining_time = 3140),
+(4: priority = 72, remaining_time = 3140),
+(5: priority = 72, remaining_time = 3140),
+(6: priority = 72, remaining_time = 3140),
+(7: priority = 72, remaining_time = 3140),
+(8: priority = 72, remaining_time = 3140),
+(9: priority = 72, remaining_time = 3140),
+(1: priority = 4, remaining_time = 2355)]
+Thread 51 is idle.
+Thread 69 is idle.
+Running tasks for 7850 ms...
+====== Running in parallel =======
+[]
+====== Waiting queue =======
+[]
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Running tasks for 5495 ms...
+====== Waiting queue =======
+[]
+Task 5 is finished (executed_time = 3140).
+====== Finished queue =======
+[(1: priority = 4, executed_time = 2355),
+(2: priority = 72, executed_time = 3140),
+(3: priority = 72, executed_time = 3140),
+(4: priority = 72, executed_time = 3140),
+(5: priority = 72, executed_time = 3140),
+(6: priority = 72, executed_time = 3140),
+(7: priority = 72, executed_time = 3140),
+(8: priority = 72, executed_time = 3140),
+(9: priority = 72, executed_time = 3140),
+(1: priority = 126, executed_time = 3140),
+(2: priority = 126, executed_time = 3140),
+(3: priority = 126, executed_time = 3140),
+(4: priority = 126, executed_time = 3140),
+(5: priority = 126, executed_time = 3140),
+(6: priority = 126, executed_time = 3140),
+(7: priority = 126, executed_time = 3140),
+(8: priority = 126, executed_time = 3140)]
+====== Running in parallel =======
+[]
+Running tasks for 5495 ms...
+Thread 54 is idle.
+Total time: 6280
