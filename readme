@@ -26,7 +26,7 @@
     	It is run only on the run command for a time given as a parameter.
 	The time can be: 1 <= Q <= T or 1 <= T <= Q. It will not necessarily
 	be a multiple of Q. Therefore, the system will run threads for a
-	maximum of Q time at a time, after which it will the checks explained
+	maximum of Q time at a time, after which it will do the checks explained
 	below. Basically, it will be a cyclic process, with step Q
     	
 
