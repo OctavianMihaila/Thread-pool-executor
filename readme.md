@@ -25,5 +25,3 @@ ThreadPoolExecutor is a thread scheduler that efficiently manages and allocates 
 - The implementation of ThreadPoolExecutor is based on stacks and queues using generic lists.
 
 - Data structures and their related functions are described in the files `queue.h` and `stack.h`, with specific operations found in `QueueFunctions.c` and `StackFunctions.c`.
-
-Author: Mihăilă Octavian-Iulian
