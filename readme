@@ -1,46 +1,27 @@
-/* Mihăilă Octavian-Iulian */
+# ThreadPoolExecutor
 
-                     = ThreadPoolExecutor =
-                     
-# ThreadPoolExecutor is a thread scheduler that receives tasks to complete
- and allocates them to available threads for execution. Practically, it
- facilitates/makes running tasks in parallel more efficient.
+ThreadPoolExecutor is a thread scheduler that efficiently manages and allocates tasks to available threads for execution, enabling parallel task execution.
 
-# The running process:
+## The Running Process
 
-    -> Init (receives two attributes from the input file):
-    	1. a time quantum Q measured in milliseconds (ms) representing
-    	 the maximum continuous running time of a thread
-    	2. the number of available cores C, from where we deduce the
-    	 maximum number of threads that can run in parallel: N = 2 * C
-    	 
-        The available thread pool will be created based on N.
-        
-        Task queues will be initialized.
-        
-    -> Running tasks in parallel
-    
-    	Tasks from the queue are taken to run until the queue is 
-    	empty/there are no threads available in the pool.
-    	
-    	It is run only on the run command for a time given as a parameter.
-	The time can be: 1 <= Q <= T or 1 <= T <= Q. It will not necessarily
-	be a multiple of Q. Therefore, the system will run threads for a
-	maximum of Q time at a time, after which it will do the checks explained
-	below. Basically, it will be a cyclic process, with step Q
-    	
+### Initialization
 
- 
-# Implementation:
-	
-    -> The implementation was made using stacks and queues based on generic
-       lists, the structures used being described in the files queue.h and
-       stack.h as well as the specific functions for operations with such
-       structures, found in QueueFunctions.c and StackFunctions.c.
-       
-# Credits for checker files: data structures and algorithms course
- (Professor, Dr. Irina Mocanu), UPB, ACS
+- ThreadPoolExecutor is initialized with two attributes from the input file:
+   1. A time quantum `Q` measured in milliseconds (ms), representing the maximum continuous running time of a thread.
+   2. The number of available CPU cores `C`, from which the maximum number of threads that can run in parallel is derived as `N = 2 * C`.
 
+- The available thread pool is created based on `N`, and task queues are initialized.
 
+### Running Tasks in Parallel
 
+- Tasks from the queue are executed until the queue is empty or there are no available threads in the pool.
 
+- The execution process occurs in cycles with a time step of `Q`. Tasks are executed for a maximum of `Q` time at a time.
+
+- After each cycle, ThreadPoolExecutor performs checks to determine whether tasks are available for execution. The execution process continues in a cyclic manner.
+
+## Implementation
+
+- The implementation of ThreadPoolExecutor is based on stacks and queues using generic lists.
+
+- Data structures and their related functions are described in the files `queue.h` and `stack.h`, with specific operations found in `QueueFunctions.c` and `StackFunctions.c`.
